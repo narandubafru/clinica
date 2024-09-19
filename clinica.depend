@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1726769091 source:/home/juli/Documents/UTN/1-Progra2-2024/0-Proyecto/clinica/funcionesGlobales.cpp
+	<iostream>
+	"funcionesGlobales.h"
+	<iostream>
+	<cstdlib>
+
+1726768905 /home/juli/Documents/UTN/1-Progra2-2024/0-Proyecto/clinica/funcionesGlobales.h
+	<iostream>
+	<cstring>
+
+1726768177 source:/home/juli/Documents/UTN/1-Progra2-2024/0-Proyecto/clinica/main.cpp
+	<iostream>
+	"app.h"
+
+1726769409 /home/juli/Documents/UTN/1-Progra2-2024/0-Proyecto/clinica/app.h
+	"turnoManager.h"
+	"pacienteManager.h"
+	"empleadoManager.h"
+	"informes.h"
+
+1726769434 source:/home/juli/Documents/UTN/1-Progra2-2024/0-Proyecto/clinica/app.cpp
+	<iostream>
+	"app.h"
+	"funcionesGlobales.h"
+
